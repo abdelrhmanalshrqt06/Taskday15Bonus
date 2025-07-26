@@ -54,6 +54,7 @@ day15bonus/<br>
 ## UI Preview
 
 The app includes a background image (`back.jpg`) and Bootstrap styling for form elements and task items. Tasks appear as styled list items with a responsive layout.
+![To Do App Preview](./images/sample.png)
 
 <br>
 
