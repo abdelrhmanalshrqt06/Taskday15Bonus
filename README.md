@@ -25,8 +25,8 @@ day15bonus/<br>
 │&nbsp;&nbsp;&nbsp;&nbsp;└── style.css<br>
 │&nbsp;&nbsp;&nbsp;&nbsp;└── bootstrap.min.css<br>
 └── js/<br>
-│&nbsp;&nbsp;&nbsp;&nbsp;└── script.js<br>
-│&nbsp;&nbsp;&nbsp;&nbsp;└── bootstrap.bundle.min.js
+&nbsp;&nbsp;&nbsp;&nbsp;└── script.js<br>
+&nbsp;&nbsp;&nbsp;&nbsp;└── bootstrap.bundle.min.js
 
 
 <br>
