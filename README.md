@@ -21,6 +21,7 @@ day15bonus/<br>
 ├── index.html<br>
 ├── images/<br>
 │&nbsp;&nbsp;&nbsp;&nbsp;└── back.jpg<br>
+│&nbsp;&nbsp;&nbsp;&nbsp;└── sample.png<br>
 ├── css/<br>
 │&nbsp;&nbsp;&nbsp;&nbsp;└── style.css<br>
 │&nbsp;&nbsp;&nbsp;&nbsp;└── bootstrap.min.css<br>
